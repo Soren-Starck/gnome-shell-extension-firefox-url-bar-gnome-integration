@@ -1,0 +1,10 @@
+{
+  "description": "Firefox UrlBar Gnome Integration",
+  "name": "Firefox UrlBar Gnome Integration",
+  "shell-version": [
+    "42.9"
+  ],
+  "url": "https://github.com/0CT0PUCE-LOG/gnome-shell-extension-shutdown-button",
+  "uuid": "firefox-url-bar-gnome-integration@0ct0puce.com",
+  "version": 1
+}
